@@ -1,0 +1,51 @@
+body {
+    background-color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #FFFFFF;
+}
+
+.gameHeading {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.gameLogo {
+    border: 5px solid black;
+    border-radius: 20px;
+    height: 200px;
+}
+
+.gameTitle {
+    color: #FFFFFF;
+    font-size: 70px;
+    margin-top: 5px;
+    font-weight: 200;
+}
+
+.division {
+    border: 5px solid white;
+}
+
+table, tr, th, td {
+    border: 1px solid white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+th {
+    padding: 10px;
+}
+
+.download {
+    padding: 0px;
+}
+
+.details {
+    padding: 30px;
+}
+
+table {
+    margin-top: 50px;
+    width: 100%;
+    background-color: #102610;
+}
