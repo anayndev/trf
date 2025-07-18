@@ -41,6 +41,7 @@ body {
 
 .os {
     display: flex;
+    background-color: #ffffff1d;
     height: 70px;
 }
 
