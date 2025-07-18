@@ -1,6 +1,35 @@
 body {
     background-color: #000000;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #FFFFFF;
+    min-width: 900px;
+}
+
+.serv, .currentServ {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 1000;
+    display: flex;
+    float: right;
+    padding: 37px;
+}
+
+.serv:hover, .currentServ {
+    background-color: red;
+}
+
+.navbar {
+    padding: 5px;
+    padding-left: 30px;
+    background-color: #7a7a7a41;
+}
+
+.brand {
+    border: solid red 5px;
+    display: inline-flex;
+    background-color: #7a7a7a41;
+    padding: 10px;
 }
 
 .channel {
@@ -36,7 +65,6 @@ body {
     border: 5px solid black;
     background-color: #569cff;
     padding: 15px;
-    min-width: 900px;
 }
 
 .detailsText {
