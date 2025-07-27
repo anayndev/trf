@@ -15,11 +15,7 @@ body {
     padding: 37px;
 }
 
-.currentServ {
-    background-color: #ff000094;
-}
-
-.serv:hover, .currentServ:hover {
+.serv:hover, .currentServ {
     background-color: red;
 }
 
